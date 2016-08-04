@@ -19,7 +19,7 @@ https://www.facebook.com/profile.php?id=100001195621380&fref=ufi
 
 
  4/7/2559    ,,  Quad230_v3_0_esp8266_androidWifi_GY521  ,,write PID gyro ,set PWM 2 KHz
- 4/8/2559    ,,  Quad230_v5_0_esp8266_androidWifi_GY521  ,,app Drone.apk  https://goo.gl/1ZUv9L
+ 4/8/2559    ,,  Quad230_v5_0_esp8266_androidWifi_GY521  ,,app android Drone.apk  https://goo.gl/1ZUv9L
                  //
 support: 
 • ESP8266 Nodemcu
