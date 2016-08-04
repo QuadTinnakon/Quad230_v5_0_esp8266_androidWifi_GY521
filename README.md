@@ -2,6 +2,20 @@
 
 /*
  Test By tinnakon kheowree  Project ESP8266 Wifi Quadrotor
+ tinnakon_za@hotmail.com
+ tinnakonza@gmail.com
+ http://quad3d-tin.lnwshop.com/
+ https://www.facebook.com/tinnakonza
+QuadTevada v2.0
+by: tevada2010    
+date: 25-11-2526(2013)
+site: http://www.quadrotorthai.com
+e-mail: quadrotorthai@gmail.com
+app Drone.apk
+Supat Boonyou
+https://www.facebook.com/supat.fiat?fref=nf
+kanin
+https://www.facebook.com/profile.php?id=100001195621380&fref=ufi
 
  4/7/2559    ,,  Quad230_v3_0_esp8266_androidWifi_GY521  ,,write PID gyro ,set PWM 2 KHz
  
