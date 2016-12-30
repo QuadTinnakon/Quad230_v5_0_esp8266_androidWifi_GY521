@@ -66,6 +66,14 @@ BackRight => 13
 ----------rx-----------       
 
 Wifi ,,ppm  => 0 , Key   ,12345678 ,
+Photo
 
+![](https://cloud.githubusercontent.com/assets/9403558/21559720/d56221e4-ce83-11e6-893e-803d72c27f4f.png)
+
+![](https://cloud.githubusercontent.com/assets/9403558/21559743/46efdd2e-ce84-11e6-9e16-9972c1d535cd.png)
+
+![](https://cloud.githubusercontent.com/assets/9403558/21559736/226512da-ce84-11e6-8044-5466d2036d8e.jpg)
+
+![](https://cloud.githubusercontent.com/assets/9403558/21559749/66cf755a-ce84-11e6-8781-0745d6169e58.jpg)
            
 */
