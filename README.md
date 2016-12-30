@@ -66,6 +66,9 @@ BackRight => 13
 ----------rx-----------       
 
 Wifi ,,ppm  => 0 , Key   ,12345678 ,
+
+app android Drone.apk  https://goo.gl/1ZUv9L
+
 Photo
 
 ![](https://cloud.githubusercontent.com/assets/9403558/21559720/d56221e4-ce83-11e6-893e-803d72c27f4f.png)
