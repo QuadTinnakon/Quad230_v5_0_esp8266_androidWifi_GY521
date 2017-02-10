@@ -43,6 +43,8 @@ support:
 
 • i2c pin D2=SDA D1=SCL begin(int sda, int scl);
 
+• LED pin D0 ,GPIO-16
+
 --------Type Quad-X-------------      
 
          6  12>>         <<14  5
