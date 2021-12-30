@@ -144,7 +144,6 @@ void loop()
         mpu6050_readAccelSum(); 
         sensorPreviousTime = currentTime;
     }
-    
     // 100 Hz task loop (10 ms),, ,250 Hz = 4000 us ,,,, 400 Hz = 2500 us
     if (currentTime - hundredHZpreviousTime >= 10000) //10000
     {
@@ -273,7 +272,6 @@ void loop()
         // 50 Hz tak (20 ms)
         if (frameCounter % TASK_50HZ == 0) 
         {
-        
             //ch1=CH_AIL;
             //ch2=CH_ELE;
             //ch3=CH_THR;
@@ -291,7 +289,6 @@ void loop()
             if (CH_RUD < 1100 && armed == 1) //not armed
             {    
                 armed = 0;
-    
             }
         }
 
@@ -313,8 +310,6 @@ void loop()
         {
             //G_Dt = (currentTime - lowPriorityTenHZpreviousTime) / 1000000.0;
             //lowPriorityTenHZpreviousTime = currentTime;
-            
-//            //x
             Serial.print(motor_FRONTL);Serial.print("\t");
             Serial.print(motor_FRONTR);Serial.print("\t");
             Serial.print(motor_REARL);Serial.print("\t");    
@@ -367,7 +362,6 @@ void loop()
         if (frameCounter >= TASK_1HZ) {
             frameCounter = 0;
         }
-        
         //previousTime = currentTime;
     } //250 Hz
 }
